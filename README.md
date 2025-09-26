@@ -12,3 +12,4 @@ Welcome to my GitHub Profile!
 Check out my recent projects [here](https://github.com/jnathaniel4444-ctrl?tab=repositories).
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jnathaniel4444-ctrl&show_icons=true)
+
